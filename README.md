@@ -2,7 +2,7 @@
 # WebSite React-Series
  
  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href='https://react-series.vercel.app/'>Visite o site</a>
+<a href='https://global-series.vercel.app/'>Visite o site</a>
 
 ## Tecnologias e Métodos Utilizados
 <div style={display:'flex'}>
