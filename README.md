@@ -1,5 +1,5 @@
 
-# WebSite React-Series
+# WebSite Global Series
  
  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 <a href='https://global-series.vercel.app/'>Visite o site</a>
