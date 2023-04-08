@@ -25,7 +25,7 @@ Consegui explorar ao máximo a Api e tudo que ela oferecia, fazendo também um m
  ## Página Login
 ![image](https://user-images.githubusercontent.com/77819811/171062112-e61db5d1-708b-424a-8c32-a38c36edd2ad.png)
  
- ## Página Home,séries mais populares atualizadas automaticamente.
+ ## Página Home, séries mais populares atualizadas automaticamente.
 ![image](https://user-images.githubusercontent.com/77819811/171062232-33fbfdde-ca10-4e35-ae61-d221a4b77c72.png)
 
 ## Responsivo para tablets, smartphones e Tv's
