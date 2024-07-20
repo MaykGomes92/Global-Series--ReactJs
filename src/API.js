@@ -3,7 +3,7 @@ export const API_URL = "https://api.themoviedb.org/3/";
 
 export function RETORNAR_DETAILS(id) {
   return {
-    url: `${API_URL}/tv/${id}?api_key=${API_KEY}&language=en-US`,
+    url: `${API_URL}tv/${id}?api_key=${API_KEY}&language=en-US`,
   };
 }
 
